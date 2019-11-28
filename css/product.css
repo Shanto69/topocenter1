@@ -447,6 +447,27 @@ hr{
 }
 
 
+.wrapper{
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	margin:0 40px 30px;
+	height:100%;
+}
+
+.item{
+	width:100%;
+}
+.owl-carousel .owl-item img {
+	display: block;
+	width: 60%;
+	cursor:  grab;
+}
+
+.owl-dots{
+	display:none;
+}
+
 
 
 
