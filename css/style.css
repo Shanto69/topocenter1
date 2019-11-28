@@ -863,6 +863,27 @@ hr{
 .footer_area_1 .f_menu ul li>span{
 	font-size:10px;
 }
+.actual_area .actual .content_area p{
+	margin-left:100px;
+	font-size: 9px;
+}
+.container{
+	width:100%;
+	padding:0 !important;
+	
+}
+img{
+	width:100%;
+}
+.header_area{
+	width:100%;
+}
+.logo_area{
+	width:100%;
+}
+.logo_area img{
+	Width:100%;
+}
 }
 
 
@@ -931,19 +952,5 @@ hr{
 	width:100% !important;
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
